@@ -1,3 +1,3 @@
-# AI
+# BADIS Adaptive Engine.
 
-BADIS Adaptive Engine.
+BADIS Adaptive Engine...
